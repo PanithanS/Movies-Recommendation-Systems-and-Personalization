@@ -6,7 +6,7 @@
 ## The recommendation systems for movies
   Here, we mock-up the movie recommendation system with data collected from IMDb. We build a machine learning-driven method for filtering and predicting the movie preferences of the user by analyzing their personal tastes and community ratings. This recommendation system facilitates movie selections for the user and guides them toward a specific domain of movies.
 
-# Contents
+# Contents with Python codes
 - Simple Recommender
 - Knowledge Recommender
 - Content-based Recommender
