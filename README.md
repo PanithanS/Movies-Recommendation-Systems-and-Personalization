@@ -1,5 +1,6 @@
 # Recommendation Systems for the IMDb movies
 
+# Contents
 - Simple Recommender
 - Knowledge Recommender
 - Content-based Recommender
@@ -16,6 +17,6 @@ These data contain metadata for all 45,000 movies listed in the Full MovieLens D
 - Fig. The 'df.head()' gives the dataset-overlook.
 ![image](https://github.com/PanithanS/Recommendation-Systems-IMDBs/assets/83627892/5131e7fe-d1fa-4761-8e9e-ed1c7c649ac2)
 
-# Acknowledgement
+# Acknowledgements
 - This work was inspired by the book: "Hands-On Recommendation Systems with Python: Start building powerful and personalized, recommendation engines with Python"
 - The Python codes were adapted from the original GitHub: https://github.com/PacktPublishing/Hands-On-Recommendation-Systems-with-Python
