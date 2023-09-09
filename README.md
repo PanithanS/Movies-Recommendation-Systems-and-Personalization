@@ -1,5 +1,5 @@
-# RecommendationSystems
-Recommendation Systems for the IMDb movies
+# Recommendation Systems for the IMDb movies
+
 - Simple Recommender
 - Knowledge Recommender
 - Content-based Recommender
