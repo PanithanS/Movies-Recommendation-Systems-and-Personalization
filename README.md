@@ -1,6 +1,9 @@
 # RecommendationSystems
 Recommendation Systems for the IMDB Movies
-- (content is going to be added)
+- Simple Recommendation
+- Knowledge Recommendation
+- Content-based Recommendation
+- and More details are going to be added
 
 # Dataset
 - We can download the necessary files from Kaggle: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
