@@ -5,7 +5,7 @@ Recommendation Systems for the IMDB Movies
 - Content-based Recommender
 - Metadata-based Recommender
 
-and More details are going to be added
+and more details are going to be added
 
 # Dataset
 - We can download the necessary files from Kaggle: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
