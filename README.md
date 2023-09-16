@@ -1,4 +1,4 @@
-# Recommendation Systems for the movies
+# Recommendation Systems for movies dataset
 Recommendation systems are a specialized area of machine learning that focuses on the evaluation and management of users or items. These techniques are frequently used by big companies like Google, Instagram, Spotify, Amazon, and Netflix to increase user engagement and platform usage. For instance, Spotify uses recommendation algorithms to provide music that is similar to tracks that a user has previously liked or enjoyed in order to keep them using their music streaming service. Amazon, meanwhile, leverages recommendation algorithms to provide product recommendations to specific consumers based on the extensive user data they have collected.
 
 # Contents
