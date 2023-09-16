@@ -10,7 +10,7 @@ Basic Recommender
 - Content-based Recommender (IMBb dataset)
 - Metadata-based Recommender (IMBb dataset)
 
-Community Liveraged Recommender
+Advanced Recommender
 - Collaborative filtering (MovieLens dataset)
 
 # Datasets
