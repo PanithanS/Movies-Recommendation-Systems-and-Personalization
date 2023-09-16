@@ -4,19 +4,19 @@ Recommendation systems are a specialized area of machine learning that focuses o
 # Contents
 Here, we mock-up the movie recommendation system with data collected from IMDb. We build a machine learning-driven method for filtering and predicting the movie preferences of the user by analyzing their personal tastes and community ratings. This recommendation system facilitates movie selections for the user and guides them toward a specific domain of movies.
 
--Basic Recommender
+## Basic Recommender
 Basic recommenders are typically straightforward systems that offer recommendations based on general popularity or trends within a dataset. For the IMBb dataset, a basic recommender might suggest movies based on overall user ratings or the number of user reviews. It doesn't take into account the individual preferences or characteristics of the user.
 
--Knowledge Recommender
+## Knowledge Recommender
 Knowledge recommenders go beyond basic popularity metrics. They consider additional information about movies, such as genre, director, and actors. For the IMBb dataset, a knowledge-based recommender might suggest movies based on a user's past viewing history and their preferences for specific genres or actors.
 
--Content-based Recommender
+## Content-based Recommender
 Content-based recommenders focus on the content of the items being recommended and the user's profile. In the context of the IMBb dataset, this system would recommend movies based on the attributes of the movies and the user's past interactions. For example, if a user has shown a preference for action movies, the content-based recommender would suggest other action movies.
 
--Metadata-based Recommender
+## Metadata-based Recommender
 Metadata-based recommenders are similar to content-based systems but rely more on the metadata associated with the items. In the IMBb dataset, this might involve recommending movies based on specific metadata like release year, keywords, or themes.
 
--Advanced Recommender
+## Advanced Recommender
 Collaborative filtering is considered an advanced recommender system because it relies on user interaction data to make recommendations. It can be based on user-user collaborative filtering or item-item collaborative filtering. In the context of the MovieLens dataset, user-user collaborative filtering would recommend movies to a user based on the preferences of users with similar viewing habits. Item-item collaborative filtering would recommend movies that are similar to ones the user has already rated positively.
 
 # Datasets
