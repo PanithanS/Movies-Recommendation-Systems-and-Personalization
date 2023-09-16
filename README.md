@@ -11,14 +11,18 @@ Here, we mock-up the movie recommendation system with data collected from IMDb. 
 
 ...more details are going to be added
 
-# Dataset
-- We can download the necessary files from Kaggle: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+# Datasets
+- For IMDb dataset, we can download the necessary files from Kaggle: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+- For MovieLens dataset, we can download from Kaggle: https://www.kaggle.com/datasets/prajitdatta/movielens-100k-dataset
 
-## About Dataset
+## About the IMBb dataset
 These data contain metadata for all 45,000 movies listed in the Full MovieLens Dataset. Movies that were released on or before July 2017 are included in the dataset. Cast, crew, narrative keywords, budget, revenue, posters, release dates, language, production firms, nations, vote totals, and vote averages are just a few examples of the data points.
 
-- Fig. The 'df.head()' gives the dataset-overlook.
+- Fig. The 'df.head()' gives an overlook for the IMBb dataset.
 ![image](https://github.com/PanithanS/Recommendation-Systems-IMDBs/assets/83627892/5131e7fe-d1fa-4761-8e9e-ed1c7c649ac2)
+
+## About the MovieLens dataset
+The MovieLens datasets, provided by the GroupLens Research Project at the University of Minnesota, consist of 100,000 ratings spanning from 1 to 5 for a total of 1682 films. These ratings were contributed by 943 users, each of whom rated at least 20 films. Additionally, user demographic information, including age, gender, occupation, and zip code, was collected through the MovieLens website (movielens.umn.edu) over a seven-month period, from September 19, 1997, to April 22, 1998. Data with fewer than 20 ratings or incomplete demographic details were excluded from the final dataset through a data-cleaning process.
 
 # Acknowledgements
 - This work was inspired by the book: "Hands-On Recommendation Systems with Python: Start building powerful and personalized, recommendation engines with Python"
