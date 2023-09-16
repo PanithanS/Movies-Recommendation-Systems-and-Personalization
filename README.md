@@ -4,10 +4,10 @@ Recommendation systems are a specialized area of machine learning that focuses o
 # Contents
 Here, we mock-up the movie recommendation system with data collected from IMDb. We build a machine learning-driven method for filtering and predicting the movie preferences of the user by analyzing their personal tastes and community ratings. This recommendation system facilitates movie selections for the user and guides them toward a specific domain of movies.
 
-- Simple Recommender
-- Knowledge Recommender
-- Content-based Recommender
-- Metadata-based Recommender
+- Simple Recommender (IMBb dataset)
+- Knowledge Recommender (IMBb dataset)
+- Content-based Recommender (IMBb dataset)
+- Metadata-based Recommender (IMBb dataset)
 
 ...more details are going to be added
 
