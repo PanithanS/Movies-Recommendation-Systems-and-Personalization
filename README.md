@@ -16,7 +16,7 @@ Content-based recommenders focus on the content of the items being recommended a
 - **Metadata-based Recommender**
 Metadata-based recommenders are similar to content-based systems but rely more on the metadata associated with the items. In the IMBb dataset, this might involve recommending movies based on specific metadata like release year, keywords, or themes.
 
-- **Advanced Recommender**
+- **Advanced Recommender with Collaborative filtering**
 Collaborative filtering is considered an advanced recommender system because it relies on user interaction data to make recommendations. It can be based on user-user collaborative filtering or item-item collaborative filtering. In the context of the MovieLens dataset, user-user collaborative filtering would recommend movies to a user based on the preferences of users with similar viewing habits. Item-item collaborative filtering would recommend movies that are similar to ones the user has already rated positively.
 
 # Datasets
