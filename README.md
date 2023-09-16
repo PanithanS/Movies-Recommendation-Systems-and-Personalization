@@ -13,7 +13,7 @@ Here, we mock-up the movie recommendation system with data collected from IMDb. 
 
 # Datasets
 - For IMDb dataset, we can download the necessary files from Kaggle: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
-- For MovieLens dataset, we can download from Kaggle: https://www.kaggle.com/datasets/prajitdatta/movielens-100k-dataset
+- For the MovieLens dataset, we can download from Kaggle: https://www.kaggle.com/datasets/prajitdatta/movielens-100k-dataset
 
 ## About the IMBb dataset
 These data contain metadata for all 45,000 movies listed in the Full MovieLens Dataset. Movies that were released on or before July 2017 are included in the dataset. Cast, crew, narrative keywords, budget, revenue, posters, release dates, language, production firms, nations, vote totals, and vote averages are just a few examples of the data points.
@@ -26,4 +26,5 @@ The MovieLens datasets, provided by the GroupLens Research Project at the Univer
 
 # Acknowledgements
 - This work was inspired by the book: "Hands-On Recommendation Systems with Python: Start building powerful and personalized, recommendation engines with Python"
-- The Python codes were inspired from the original GitHub: https://github.com/PacktPublishing/Hands-On-Recommendation-Systems-with-Python
+- The Python codes were inspired by the original GitHub: https://github.com/PacktPublishing/Hands-On-Recommendation-Systems-with-Python
+- The published work for the MovieLens dataset refers to 'Herlocker, J., Konstan, J., Borchers, A., Riedl, J.. An Algorithmic Framework for Performing Collaborative Filtering. Proceedings of the 1999 Conference on Research and Development in Information Retrieval. Aug. 1999.'
