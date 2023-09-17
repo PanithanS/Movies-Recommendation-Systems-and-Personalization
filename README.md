@@ -43,13 +43,13 @@ Fig: With different user ID input, we give personalized recommendations with the
 - Fig: The 'df.head()' gives an overlook for the movies dataset.
 ![image](https://github.com/PanithanS/Recommendation-Systems-IMDBs/assets/83627892/5131e7fe-d1fa-4761-8e9e-ed1c7c649ac2)
 
-## About the IMBb dataset
-These data contain metadata for all 45,000 movies listed in the Full MovieLens Dataset. Movies that were released on or before July 2017 are included in the dataset. Cast, crew, narrative keywords, budget, revenue, posters, release dates, language, production firms, nations, vote totals, and vote averages are just a few examples of the data points.
+## About the dataset
 
-## About the MovieLens dataset
-The MovieLens datasets, provided by the GroupLens Research Project at the University of Minnesota, consist of 100,000 ratings spanning from 1 to 5 for a total of 1682 films. These ratings were contributed by 943 users, each of whom rated at least 20 films. Additionally, user demographic information, including age, gender, occupation, and zip code, was collected through the MovieLens website (movielens.umn.edu) over seven months, from September 19, 1997, to April 22, 1998. Data with fewer than 20 ratings or incomplete demographic details were excluded from the final dataset through a data-cleaning process.
+**IMBb dataset**: These data contain metadata for all 45,000 movies listed in the Full MovieLens Dataset. Movies that were released on or before July 2017 are included in the dataset. Cast, crew, narrative keywords, budget, revenue, posters, release dates, language, production firms, nations, vote totals, and vote averages are just a few examples of the data points.
+
+**MovieLens datasets**: This dataset provided by the GroupLens Research Project at the University of Minnesota, consists of 100,000 ratings spanning from 1 to 5 for a total of 1682 films. These ratings were contributed by 943 users, each of whom rated at least 20 films. Additionally, user demographic information, including age, gender, occupation, and zip code, was collected through the MovieLens website (movielens.umn.edu) over seven months, from September 19, 1997, to April 22, 1998. Data with fewer than 20 ratings or incomplete demographic details were excluded from the final dataset through a data-cleaning process.
 
 # Acknowledgements
-- This work was inspired by the book: "Hands-On Recommendation Systems with Python: Start building powerful and personalized, recommendation engines with Python"
+- This work was inspired by the book: "Hands-On Recommendation Systems with Python: Start Building Powerful and Personalized, Recommendation Engines with Python"
 - The Python codes were inspired by the original GitHub: https://github.com/PacktPublishing/Hands-On-Recommendation-Systems-with-Python
 - The published work for the MovieLens dataset refers to 'Herlocker, J., Konstan, J., Borchers, A., Riedl, J.. An Algorithmic Framework for Performing Collaborative Filtering. Proceedings of the 1999 Conference on Research and Development in Information Retrieval. Aug. 1999.'
