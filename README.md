@@ -28,7 +28,7 @@ Collaborative filtering is considered an advanced recommender system because it 
 
 # Datasets
 - The IMDb dataset was downloaded from Kaggle: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
-- The MovieLens dataset was downloaded from Kaggle: https://www.kaggle.com/datasets/prajitdatta/movielens-100k-dataset
+- The MovieLens dataset was downloaded from Kaggle: https://www.kaggle.com/datasets/prajitdatta/movielens-100k-dataset or https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv
 
 ## About the IMBb dataset
 These data contain metadata for all 45,000 movies listed in the Full MovieLens Dataset. Movies that were released on or before July 2017 are included in the dataset. Cast, crew, narrative keywords, budget, revenue, posters, release dates, language, production firms, nations, vote totals, and vote averages are just a few examples of the data points.
