@@ -35,11 +35,11 @@ Fig: Personalized Recommendations with the Hybrid Recommender: Even for the same
 - The IMDb dataset was downloaded from Kaggle: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 - The MovieLens dataset was downloaded from Kaggle: https://www.kaggle.com/datasets/prajitdatta/movielens-100k-dataset or '.csv' format at https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv
 
+- Fig: The 'df.head()' gives an overlook for the movies dataset.
+![image](https://github.com/PanithanS/Recommendation-Systems-IMDBs/assets/83627892/5131e7fe-d1fa-4761-8e9e-ed1c7c649ac2)
+
 ## About the IMBb dataset
 These data contain metadata for all 45,000 movies listed in the Full MovieLens Dataset. Movies that were released on or before July 2017 are included in the dataset. Cast, crew, narrative keywords, budget, revenue, posters, release dates, language, production firms, nations, vote totals, and vote averages are just a few examples of the data points.
-
-- Fig: The 'df.head()' gives an overlook for the IMBb dataset.
-![image](https://github.com/PanithanS/Recommendation-Systems-IMDBs/assets/83627892/5131e7fe-d1fa-4761-8e9e-ed1c7c649ac2)
 
 ## About the MovieLens dataset
 The MovieLens datasets, provided by the GroupLens Research Project at the University of Minnesota, consist of 100,000 ratings spanning from 1 to 5 for a total of 1682 films. These ratings were contributed by 943 users, each of whom rated at least 20 films. Additionally, user demographic information, including age, gender, occupation, and zip code, was collected through the MovieLens website (movielens.umn.edu) over seven months, from September 19, 1997, to April 22, 1998. Data with fewer than 20 ratings or incomplete demographic details were excluded from the final dataset through a data-cleaning process.
