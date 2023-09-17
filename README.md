@@ -4,7 +4,6 @@ Recommendation systems are a specialized area of machine learning that focuses o
 # Netflix personalization: the example case for movie recommender
 - Fig: Here is an example that you may be familiar with. The first time that we created an account on Netflix, the system asked for use preference for movies.
 ![image](https://github.com/PanithanS/Movies-Recommendation-Systems/assets/83627892/943f0bf8-d7a9-4ee9-98fd-b526cc7ba440)
-[Tumbnails_v1b.pdf](https://github.com/PanithanS/Movies-Recommendation-Systems-and-Personalization/files/12643139/Tumbnails_v1b.pdf)
 
 - Fig: Later, Netflix managed to recommend movies to users from different approaches and keep up-to-date relevant to use behaviors.
 ![image](https://github.com/PanithanS/Movies-Recommendation-Systems/assets/83627892/b488daff-5136-470b-ba22-0611ff1500b1)
