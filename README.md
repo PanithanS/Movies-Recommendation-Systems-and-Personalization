@@ -5,7 +5,7 @@ Recommendation systems are a specialized area of machine learning that focuses o
 - Fig: Here is an example that you may be familiar with. The first time that we created an account on Netflix, the system asked for use preference for movies.
 ![image](https://github.com/PanithanS/Movies-Recommendation-Systems/assets/83627892/943f0bf8-d7a9-4ee9-98fd-b526cc7ba440)
 
-- Fig: Later, Netflix managed to recommend movies to users from different approaches and keep up-to-date relevant to use behaviors.
+- Fig: Later, Netflix managed to recommend movies to users from different approaches and updates relevant to user behaviors.
 ![image](https://github.com/PanithanS/Movies-Recommendation-Systems/assets/83627892/b488daff-5136-470b-ba22-0611ff1500b1)
 
 # Contents
@@ -31,7 +31,7 @@ Hybrid movie recommender systems combine content-based and collaborative filteri
 
 # Code example: Hybrid Recommender
 
-For the same movie as 'Iron Man', our Hybrid Recommender generates distinct recommendations for different users, highlighting its personalization ability to provide tailored suggestions based on individual user.
+For the same movie as 'Iron Man', our Hybrid Recommender generates distinct recommendations for different users, highlighting its personalization ability to provide tailored suggestions based on an individual user.
 
 Fig: With different user ID input, we give personalized recommendations with the Hybrid Recommender.
 ![image](https://github.com/PanithanS/Movies-Recommendation-Systems/assets/83627892/8bf284d0-addd-420f-a1ee-f5e8d2235b0b)
