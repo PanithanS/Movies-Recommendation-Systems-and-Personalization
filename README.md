@@ -1,6 +1,12 @@
 # Recommendation systems for the movie datasets
 Recommendation systems are a specialized area of machine learning that focuses on the evaluation and management of users or items. These techniques are frequently used by big companies like Google, Instagram, Spotify, Amazon, and Netflix to increase user engagement and platform usage. For instance, Spotify uses recommendation algorithms to provide music that is similar to tracks that a user has previously liked or enjoyed in order to keep them using their music streaming service. Amazon, meanwhile, leverages recommendation algorithms to provide product recommendations to specific consumers based on the extensive user data they have collected.
 
+- Fig: First we join Netflix, the system tray to take information to make personalization recommendations for movies.
+![image](https://github.com/PanithanS/Movies-Recommendation-Systems/assets/83627892/943f0bf8-d7a9-4ee9-98fd-b526cc7ba440)
+
+- Fig: Example for recommendation systems in Netflix.
+![image](https://github.com/PanithanS/Movies-Recommendation-Systems/assets/83627892/b488daff-5136-470b-ba22-0611ff1500b1)
+
 # Contents
 Here, we mock-up the movie recommendation system with data collected from IMDb. We build a machine learning-driven method for filtering and predicting the movie preferences of the user by analyzing their personal tastes and community ratings. This recommendation system facilitates movie selections for the user and guides them toward a specific domain of movies.
 
@@ -26,7 +32,7 @@ Collaborative filtering is considered an advanced recommender system because it 
 ## About the IMBb dataset
 These data contain metadata for all 45,000 movies listed in the Full MovieLens Dataset. Movies that were released on or before July 2017 are included in the dataset. Cast, crew, narrative keywords, budget, revenue, posters, release dates, language, production firms, nations, vote totals, and vote averages are just a few examples of the data points.
 
-- Fig. The 'df.head()' gives an overlook for the IMBb dataset.
+- Fig: The 'df.head()' gives an overlook for the IMBb dataset.
 ![image](https://github.com/PanithanS/Recommendation-Systems-IMDBs/assets/83627892/5131e7fe-d1fa-4761-8e9e-ed1c7c649ac2)
 
 ## About the MovieLens dataset
