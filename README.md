@@ -31,7 +31,9 @@ Hybrid movie recommender systems combine content-based and collaborative filteri
 
 # Code example output: Hybrid Recommender
 
-Fig: Personalized Recommendations with the Hybrid Recommender: Even for the same movie, our system generates distinct recommendations for different users, highlighting its ability to provide tailored suggestions based on individual preferences.
+For the same movie, our Hybrid Recommender generates distinct recommendations for different users, highlighting its personalization ability to provide tailored suggestions based on individual user.
+
+Fig: Personalized Recommendations with the Hybrid Recommender.
 ![image](https://github.com/PanithanS/Movies-Recommendation-Systems/assets/83627892/8bf284d0-addd-420f-a1ee-f5e8d2235b0b)
 
 # Datasets
