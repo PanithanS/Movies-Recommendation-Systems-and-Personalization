@@ -25,7 +25,7 @@ Metadata-based recommenders are similar to content-based systems but rely more o
 
 - **Collaborative filtering Recommender(MovieLens dataset)**
 Collaborative filtering is considered an advanced recommender system because it relies on user interaction data to make recommendations. It can be based on user-user collaborative filtering or item-item collaborative filtering. In the context of the MovieLens dataset, user-user collaborative filtering would recommend movies to a user based on the preferences of users with similar viewing habits. Item-item collaborative filtering would recommend movies that are similar to ones the user has already rated positively.
-- **Hybrid Recommender(MovieLens dataset)**
+- **Personalization: Hybrid Recommender(MovieLens dataset)**
 Hybrid movie recommender systems combine content-based and collaborative filtering approaches to provide users with more accurate and diverse movie suggestions. They estimate ratings for unrated movies based on user profiles and similar user preferences, offering a balanced and personalized recommendation experience.
 
 Fig: Personalized Recommendations with the Hybrid Recommender: Even for the same movie, our system generates distinct recommendations for different users, highlighting its ability to provide tailored suggestions based on individual preferences.
