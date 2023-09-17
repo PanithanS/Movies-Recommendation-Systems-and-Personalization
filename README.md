@@ -27,8 +27,8 @@ Metadata-based recommenders are similar to content-based systems but rely more o
 Collaborative filtering is considered an advanced recommender system because it relies on user interaction data to make recommendations. It can be based on user-user collaborative filtering or item-item collaborative filtering. In the context of the MovieLens dataset, user-user collaborative filtering would recommend movies to a user based on the preferences of users with similar viewing habits. Item-item collaborative filtering would recommend movies that are similar to ones the user has already rated positively.
 
 # Datasets
-- For IMDb dataset, we can download the necessary files from Kaggle: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
-- For the MovieLens dataset, we can download it from Kaggle: https://www.kaggle.com/datasets/prajitdatta/movielens-100k-dataset
+- The IMDb dataset was downloaded from Kaggle: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+- The MovieLens dataset was downloaded from Kaggle: https://www.kaggle.com/datasets/prajitdatta/movielens-100k-dataset
 
 ## About the IMBb dataset
 These data contain metadata for all 45,000 movies listed in the Full MovieLens Dataset. Movies that were released on or before July 2017 are included in the dataset. Cast, crew, narrative keywords, budget, revenue, posters, release dates, language, production firms, nations, vote totals, and vote averages are just a few examples of the data points.
