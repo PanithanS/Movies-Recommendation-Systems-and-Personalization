@@ -29,7 +29,7 @@ Collaborative filtering is considered an advanced recommender system because it 
 Hybrid movie recommender systems combine content-based and collaborative filtering approaches to provide users with more accurate and diverse movie suggestions. They estimate ratings for unrated movies based on user profiles and similar user preferences, offering a balanced and personalized recommendation experience.
 
 
-# Code example output: Hybrid Recommender
+# Code example: Hybrid Recommender
 
 For the same movie, our Hybrid Recommender generates distinct recommendations for different users, highlighting its personalization ability to provide tailored suggestions based on individual user.
 
