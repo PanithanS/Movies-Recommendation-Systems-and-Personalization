@@ -28,6 +28,9 @@ Collaborative filtering is considered an advanced recommender system because it 
 - **Personalization: Hybrid Recommender(MovieLens dataset)**
 Hybrid movie recommender systems combine content-based and collaborative filtering approaches to provide users with more accurate and diverse movie suggestions. They estimate ratings for unrated movies based on user profiles and similar user preferences, offering a balanced and personalized recommendation experience.
 
+
+# Code example output: Hybrid Recommender
+
 Fig: Personalized Recommendations with the Hybrid Recommender: Even for the same movie, our system generates distinct recommendations for different users, highlighting its ability to provide tailored suggestions based on individual preferences.
 ![image](https://github.com/PanithanS/Movies-Recommendation-Systems/assets/83627892/8bf284d0-addd-420f-a1ee-f5e8d2235b0b)
 
